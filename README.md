@@ -1,2 +1,1 @@
-# muni
-xc,ldflvf
+GIT App Link: https://msysgit.github.io/
